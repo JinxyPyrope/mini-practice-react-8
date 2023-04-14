@@ -1,10 +1,7 @@
-import React from 'react'
+import React from "react"
 
-
-function Display() {
-  return (
-    <div>Display</div>
-  )
+const Display = props => {
+  return <>Hello World</>
 }
 
 export default Display
