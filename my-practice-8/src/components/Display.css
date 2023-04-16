@@ -2,9 +2,10 @@
   display: flex;
   margin: auto;
   height: 225px;
-  max-width: 30%;
+  max-width: 34%;
   border: 15px;
   border-radius: 10px;
+  box-shadow: 0px 5px 5px 0px rgba(174, 174, 174, 0.75);
   background: whitesmoke;
 }
 
