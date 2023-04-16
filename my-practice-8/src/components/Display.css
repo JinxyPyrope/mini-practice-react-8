@@ -1,9 +1,14 @@
 .test__container {
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  background: whitesmoke;
-  max-width: 40%;
+  margin: auto;
+  height: 225px;
+  max-width: 30%;
   border: 15px;
   border-radius: 10px;
+  background: whitesmoke;
+}
+
+.test__section {
+  text-align: center;
+  margin: auto;
 }

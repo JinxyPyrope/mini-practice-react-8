@@ -1,9 +1,10 @@
 .App {
   display: flex;
-  background-color: lightgreen;
   margin: 10rem auto;
-  max-width: 80%;
- 
+  max-width: 70%;
+  min-height: 400px;
+  justify-content: center;
+  background-color: lightgreen;
 }
 
-/*Could also do .text__container since it's imported from a component like a  family tree */
+/*Could also do .text__container since it's imported from a component like a family tree */

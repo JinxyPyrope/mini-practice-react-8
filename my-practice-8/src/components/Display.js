@@ -4,8 +4,10 @@ import "./Display.css"
 
 const listData = data.map(joke => (
   <div className="test__container">
-    <h2>{joke.setup}</h2>
-    <p>{joke.punchline}</p>
+    <div className="test__section">
+      <h2>{joke.setup}</h2>
+      <p>{joke.punchline}</p>
+    </div>
   </div>
 ))
 
